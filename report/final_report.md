@@ -1,6 +1,4 @@
-# Informe Final
+# 📑 Informe Final - Medical Literature Classifier
 
-Incluye resultados, métricas y reflexiones sobre el modelo.
-
-- **Métrica principal:** F1 Score ponderado
-- **Confusion Matrix** incluida en resultados.
+Se implementó TF‑IDF + Logistic Regression (OvR) con umbrales por clase.
+Métrica principal: Weighted F1; adicionales: micro/macro F1. Incluye matriz de confusión por etiqueta.
